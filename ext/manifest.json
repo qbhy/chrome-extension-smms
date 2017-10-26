@@ -4,7 +4,9 @@
   "description": "一个简单实用的图床插件",
   "version": "1.4",
   "icons": {
-    "48": "qbhy.png"
+    "16": "qbhy.png",
+    "48": "qbhy.png",
+    "128": "qbhy.png"
   },
   "permissions": [
     "tabs"
