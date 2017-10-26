@@ -6,6 +6,5 @@ smms 的 chrome 扩展
 
 
 ## 截图
-<img src="https://i.loli.net/2017/10/26/59f179080c60e.png"/>
-
+<img src="https://i.loli.net/2017/10/26/59f179990d14c.png"/>
 <img src="https://i.loli.net/2017/10/26/59f179487d6ba.png"/>
