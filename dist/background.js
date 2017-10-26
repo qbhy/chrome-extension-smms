@@ -5,7 +5,7 @@ chrome.browserAction.onClicked.addListener(function (tab) {
     var top = (screen.height / 2) - (h / 2);
 
     chrome.windows.create({
-        url: 'dist/index.html',
+        url: 'index.html',
         width: w,
         height: h,
         'left': left,

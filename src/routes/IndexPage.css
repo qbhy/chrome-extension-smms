@@ -1,11 +1,5 @@
 .container {
     width: 350px;
-    height: 450px;
-    margin: 100px auto;
-    border: 1px solid #ccc;
-    border-radius: 8px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    min-height: 350px;
     padding: 10px;
 }

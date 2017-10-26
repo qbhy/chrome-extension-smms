@@ -4,9 +4,7 @@
 node_modules
 
 # production
-dist
 .idea
-
 # misc
 .DS_Store
 npm-debug.log*
